@@ -1,10 +1,9 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/byteex-landing/',
+  base: "/byteex-landing/",
   build: {
     outDir: 'dist',
-    assetsDir: 'assets',
-    emptyOutDir: true
+    assetsDir: 'assets'
   }
-})
+}) 
