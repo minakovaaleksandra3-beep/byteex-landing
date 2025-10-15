@@ -1,0 +1,289 @@
+{
+    "banner": {
+        "text": "CONSCIOUSLY MADE BUTTER SOFT STAPLES FOR EVERY DAY (OR NIGHT)   |   FREE SHIPPING on orders > $200   |   easy 45 day return window."
+    },
+  "header": {
+    "logo": "/images/logo.svg"
+  },
+  "hero": {
+    "title": "Don't apologize for being comfortable.",
+    "subtitle": "You deserve to feel at ease in every moment.",
+    "features": [
+      {
+        "icon": "/icons/day_night_icon.svg", 
+        "text": "Beautiful, comfortable loungewear for day or night."
+      },
+      {
+        "icon": "/icons/shop_icon.svg", 
+        "text": "No wasteful extras, like tags or plastic packaging."
+      },
+      {
+        "icon": "/icons/wind_icon.svg", 
+        "text": "Our signature fabric is incredibly comfortable — unlike anything you’ve ever felt."
+      }
+    ],
+    "ctaText": "Customize Your Order",
+    "ctaIcon": "/icons/arrow_icon.svg",
+    "images": [
+      "/images/main_photo.png"
+    ],
+  "floatingTestimonial": {
+    "avatar": "/images/amy.png",
+    "author": "Amy P.",
+    "rating": 5,
+    "badge": "One of 500+ 5 Star Reviews Online",
+    "text": "Overjoyed with my Loungewear set. I have the jogger and the sweatshirt. Quality product on every level. From the compostable packaging, to the supplied washing bag, even the garments smells like fresh herbs when I first held them."
+  }
+  },
+  "partners":{
+    "title": "as seen in",
+    "logos": [
+        "/images/logo.png"
+    ]
+  },
+  "features": {
+    "title": "Loungewear you can be proud of.",
+    "items": [
+      {
+        "icon": "/icons/shop_icon.svg",
+        "title": "Ethically sourced",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus."
+      },
+      {
+        "icon": "/icons/leaf_icon.svg",
+        "title": "Responsibly made",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus."
+      },
+      {
+        "icon": "/icons/day_night_icon.svg",
+        "title": "Range for living in",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus."
+      },
+      {
+        "icon": "/icons/wind_icon.svg",
+        "title": "Unapologetically comfortable",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus."
+      }
+    ],
+    "gallery": [
+        "/images/photo_gallery.png",
+        "/images/open_gallery_photo.jpg",
+        "/images/photo_gallery.png",
+        "/images/photo_gallery.png",
+        "/images/photo_gallery.png",
+        "/images/photo_gallery.png",
+        "/images/photo_gallery.png",
+        "/images/photo_gallery.png"
+
+    ],
+    "galleryMainImage": "/images/open_gallery_photo.jpg"
+  },
+  "thirdSection": {
+    "title": "Be your best self.",
+    "paragraphs": [
+        "Hi! My name's [Insert Name], and I founded [Insert] in ____.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis sapien facilisis tincidunt pellentesque. In eget ipsum id felis finibus consequat.",
+        "Fusce non nibh luctus, dignissim risus quis, bibendum dolor. Donec pretium volutpat ligula, ac consectetur felis varius non. Aliquam a nunc rutrum, porttitor dolor eu, pellentesque est. Vivamus id arcu congue, faucibus libero nec, placerat ligula.",
+        "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu nisl a metus ultrices sodales.",
+        "Fusce non ante velit. Sed auctor odio eu semper molestie. Nam mattis, sapien eget lobortis fringilla, eros nisl tristique tellus, ac convallis urna massa ut nibh.",
+        "Duis non fermentum augue. Vivamus laoreet aliquam risus, sed euismod leo aliquam ut. Vivamus in felis eu locus faugiat aliquam nec in sapien.",
+        "Cras mattis varius mattis."
+    ],
+    "cta": {
+        "text": "Customize Your Outfit",
+        "link": "#customize"
+    },
+    "images":  "/images/section_three_photo.png"
+  },
+  "fourthSection": {
+    "title": "Comfort made easy",
+    "cards": [
+      {
+        "icon": "/icons/shop_leaf_icon.svg",
+        "title": "You save.",
+        "description": "Browse our comfort sets and save 15% when you bundle.",
+        "bgColor": "#F5F5F5"
+      },
+      {
+        "icon": "/icons/delivery_icon.svg",
+        "title": "We ship.",
+        "description": "We ship your items within 1-2 days of receiving your order.",
+        "bgColor": "#FFF4E6"
+      },
+      {
+        "icon": "/icons/day_night_transperant_icon.svg",
+        "title": "You enjoy!",
+        "description": "Wear hermest around the house, out on the town, or in bed.",
+        "bgColor": "#F5F5F5"
+      }
+    ],
+    "cta": {
+      "text": "Customize Your Outfit",
+      "link": "#customize"
+    },
+    "rating": {
+      "starIcon": "/icons/star_icon.svg",
+      "text": "Over 1500+ 5 Star Reviews Online"
+    }
+  },
+  "fifthSection": {
+        "title": "What are our fans saying?",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis sapien facilisis tincidunt pellentesque. In eget ipsum id felis finibus consequat. Fusce non nibh luctus.",
+        "gallery": [
+            "/images/g1.png",
+            "/images/g2.png",
+            "/images/g3.png",
+            "/images/g4.png",
+            "/images/g5.png",
+            "/images/g6.png",
+            "/images/g7.png",
+            "/images/g8.png",
+            "/images/g9.png",
+            "/images/g10.png",
+            "/images/g11.png",
+            "/images/g12.png",
+            "/images/g13.png",
+            "/images/g14.png",
+            "/images/g15.png",
+            "/images/g16.png",
+            "/images/g17.png",
+            "/images/g18.png",
+            "/images/g19.png",
+            "/images/g20.png",
+            "/images/g21.png",
+            "/images/g22.png"
+        ],
+        "testimonials": [
+      {
+        "author": "Jane, S.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sollicitudin dolor, non sodales justo. Aenean eget aliquet mi."
+      },
+      {
+        "author": "Jane, S.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sollicitudin dolor, non sodales justo. Aenean eget aliquet mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sollicitudin dolor, non sodales."
+      },
+      {
+        "author": "Jane, S.",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed sollicitudin dolor, non sodales justo. Aenean eget aliquet mi."
+      },
+      {
+        "author": "John, D.",
+        "text": "Amazing quality and comfort! Highly recommend to everyone."
+      },
+      {
+        "author": "Emma, L.",
+        "text": "Best purchase I've made this year. The fabric is so soft and comfortable."
+      }
+    ],
+    "cta": {
+      "text": "Customize Your Outfit",
+      "link": "#customize"
+    },
+    "rating": {
+      "starIcon": "/icons/star_icon.svg",
+      "text": "Over 500+ 5 Star Reviews Online"
+    }
+  },
+  "testimonials": {
+    "title": "What are our fans saying?",
+    "items": [
+      {
+        "rating": 5,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus.",
+        "author": "Sarah M."
+      },
+      {
+        "rating": 5,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus.",
+        "author": "John D."
+      },
+      {
+        "rating": 5,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus.",
+        "author": "Emma L."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions.",
+    "items": [
+      {
+        "question": "Ipsum dolor sit amet?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus, a dignissim nibh sollicitudin eget."
+      },
+      {
+        "question": "Ipsum dolor sit amet?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus, a dignissim nibh sollicitudin eget."
+      },
+      {
+        "question": "Ipsum dolor sit amet?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus, a dignissim nibh sollicitudin eget."
+      },
+       {
+        "question": "Ipsum dolor sit amet?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus, a dignissim nibh sollicitudin eget."
+      },
+      {
+        "question": "Ipsum dolor sit amet?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus, a dignissim nibh sollicitudin eget."
+      },
+      {
+        "question": "Ipsum dolor sit amet?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce varius faucibus lectus, a dignissim nibh sollicitudin eget."
+      }
+    ],
+    "images": "/images/questions_section_photo.png"
+  },
+  "greenImpact": {
+  "title": "Our total green impact",
+  "items": [
+    {
+      "value": "3,927 kg",
+      "description": "of CO2 saved",
+      "icon": "/icons/cloude_icon.svg"
+    },
+    {
+      "value": "2,546,167 days", 
+      "description": "of drinking water saved",
+      "icon": "/icons/drop_icon.svg"
+    },
+    {
+      "value": "7,321 kWh",
+      "description": "of energy saved",
+      "icon": "/icons/thander_icon.svg"
+    }
+  ]
+},
+"findSomething": {
+  "title": "Find something you love.",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis sapien facilisis tincidunt pellentesque. In eget ipsum et felis finibus consequat.",
+  "image": "/images/last_photo.png",
+  "cta": {
+    "text": "Customize Your Outfit",
+    "link": "#customize",
+    "icon": "/icons/arrow_icon.svg"
+  },
+  "shippingInfo": {
+    "image": "/images/ship_photo.svg",
+    "text": "Ships in 1-2 Days"
+  },
+  "paymentMethods": {
+    "image": "/images/pay_photo.svg"
+  },
+  "features": [
+    {
+      "icon": "/icons/gray_delivery_icon.svg",
+      "text": "FREE Shipping on Orders over $200"
+    },
+    {
+      "icon": "/icons/protection_icon.svg",
+      "text": "Over 500+ 5 Star Reviews Online"
+    },
+    {
+      "icon": "/icons/gray_shop_icon.svg",
+      "text": "Made ethically and responsibly."
+    }
+  ]
+
+}
+}
