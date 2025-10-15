@@ -1,4 +1,6 @@
 import { fetchContent } from './js/api.js';
+import './styles/main.css';
+import './styles/responsive.css';
 import { renderBanner } from './js/components/banner.js';
 import { renderHeader } from './js/components/header.js';
 import { renderHero } from './js/components/hero.js';
