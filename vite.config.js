@@ -4,6 +4,8 @@ export default defineConfig({
   base: "/byteex-landing/",
   build: {
     outDir: 'dist',
-    assetsDir: 'assets'
-  }
-}) 
+    assetsDir: 'assets',
+    emptyOutDir: true
+  },
+  publicDir: 'public'
+})
